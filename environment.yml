@@ -1,0 +1,16 @@
+# conda env create -f environment.yml
+name: practicum-env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - seaborn
+  - numpy
+  - scikit-learn
+  - phik
+  - shap
+  - pip:
+      - phik
+

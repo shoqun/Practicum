@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+pandas
+jupyter
+matplotlib
+seaborn
+numpy
+scikit-learn
+phik
+shap
+
