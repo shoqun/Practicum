@@ -23,13 +23,13 @@ The analysis is based on four datasets:
    - Decision Tree
    - Logistic Regression
    - Support Vector Classifier  
-   Best model selected based on F1-score and validated using cross-validation.
+   Best model selected based on ROC-AUC and validated using cross-validation.
 5. **Model Interpretation**: SHAP values used to assess feature importance.
 6. **Customer Segmentation**: based on behavior, purchase patterns, and risk of churn.
 7. **Recommendations**: tailored retention strategies for each segment.
 
 ## Result
-The best-performing model achieved a strong F1-score and revealed key drivers behind declining activity.  
+The best-performing model achieved a strong ROC-AUC and revealed key drivers behind declining activity.  
 Business insights were translated into concrete strategies to improve customer retention.
 
 ---
